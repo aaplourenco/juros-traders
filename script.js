@@ -6,7 +6,7 @@ function calcularMontante() {
     const resultadoElement = document.getElementById('resultado');
 
     if (isNaN(valorInicial) || isNaN(taxaDeJuros) || isNaN(traders) || valorInicial <= 0 || taxaDeJuros <= 0 || traders <= 0) {
-        resultadoElement.textContent = "Por favor, insira valores válidos e positivos para valor inicial, taxa de juros e período em meses.";
+        resultadoElement.textContent = "Por favor, insira valores válidos e positivos para valor inicial, taxa de juros e traders.";
         return;
     }
 
