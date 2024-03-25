@@ -14,6 +14,7 @@ Esta é uma simples calculadora de juros compostos implementada em HTML, CSS e J
 2. Abra o arquivo `index.html` em um navegador da web.
 3. Insira o valor inicial, a taxa de juros e o número de traders nos campos fornecidos.
 4. Clique no botão "Calcular" para ver o resultado.
+5. Calculadora funcionando [Clique aqui](https://aaplourenco.github.io/juros-traders/).
 
 ## Próximos Passos
 
